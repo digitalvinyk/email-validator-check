@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>JavaScript form validation - checking email</title>
-<link rel='stylesheet' href='form-style.css' type='text/css' />      
+<link rel='stylesheet' href='https://github.com/digitalvinyk/email-validator-check/blob/master/form-style.css' type='text/css' />      
 </head>
 <body onload='document.form1.text1.focus()'>
 <div class="mail">
@@ -17,6 +17,6 @@
 </ul>
 </form>
 </div>
-<script src="email-validation.js"></script>
+<script src="https://github.com/digitalvinyk/email-validator-check/blob/master/email-validation.js"></script>
 </body>
 </html>
